@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "937820298087",
+    "firebase_url": "https://catan-timer-b97b0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "catan-timer-b97b0",
+    "storage_bucket": "catan-timer-b97b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937820298087:android:25d213ce56c5b079906dc2",
+        "android_client_info": {
+          "package_name": "com.example.catantimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937820298087-sbe7j62vnb7uij8159h5lauu5uhocgr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDztT0xr5VeDVN4zbqo4xDenMoR1Dh1xHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937820298087-sbe7j62vnb7uij8159h5lauu5uhocgr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

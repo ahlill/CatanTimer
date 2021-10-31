@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CatanTimer</string>
+
+    <string name="time">0%d : %d</string>
+</resources>
